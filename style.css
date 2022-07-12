@@ -127,6 +127,7 @@ text-align: center;
 .img-gallery{
     display: flex;
     margin-left: 90px;
+    margin-top: 80px;
 }
 .img-2 , .img-3 , .img-4{
     margin-left: 20px;
