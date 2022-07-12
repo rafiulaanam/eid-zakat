@@ -59,6 +59,7 @@ body{
 
 .container-2{
     display: flex;
+    margin-left: 101px;
 }
 
 .img-1 img{
