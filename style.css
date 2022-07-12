@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+/* font-family: 'Roboto Slab', serif; */
+}
+
+.header{
+    background-image: url(images/header-pic.png);
+    background-size: 1440px;
+    height: 695px;
+    
+}
+.gradient{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1),rgb(0, 0, 0, .7),rgb(0, 0, 0, .4),rgba(0, 0, 0, 0));
+    background-size: 1440px;
+    height: 695px;
+    position: relative;
+}
+
+.text-area{
+    position: absolute;
+    color: white;
+    width: 400px;
+    padding: 160px;
+   
+}
+.heading-1{
+    font-size: 25px;
+}
+.btn-1{
+    margin-top: 50px;
+}
+.btn-1 a{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 3px;
+}
